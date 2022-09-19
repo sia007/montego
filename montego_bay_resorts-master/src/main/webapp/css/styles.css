@@ -1,0 +1,29 @@
+.brand_blue {
+	background-color: #52B3C9;
+}
+
+.search_bar {
+	height: 50vh;
+	/* 	opacity: 0.6; */
+	min-height: 500px;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
+.container-fluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
+.text_white {
+	text-align: center;
+	color: white;
+}
+
+.alert-blocks {
+	display: block;
+	height: 60px;
+	width: 100%
+}
